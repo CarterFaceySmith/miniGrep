@@ -1,5 +1,34 @@
-# minigrep
+<a name="readme-top"></a>
 
-Following along a Rust tutorial to make a command line tool for searching text phrases within files, pretty simple stuff.
+<br />
+<h3 align="center">miniGrep</h3>
 
-The tutorial in question can be found in the official Rust documentation, [here](https://doc.rust-lang.org/book/ch12-00-an-io-project.html).
+  <p align="center">
+    A minimal, Rust-based version of the grep command line tool to search files for specific strings.
+    <br />
+    <br />
+    <a href="https://github.com/carterfaceysmith/miniGrep"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/carterfaceysmith/miniGrep">View Demo</a>
+    ·
+    <a href="https://github.com/carterfaceysmith/miniGrep/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/carterfaceysmith/miniGrep/issues">Request Feature</a>
+  </p>
+</div>
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+An attempt to create a minimal, lightweight grep command line tool for use in text searching. My first steps into Rust.
+
+### Built With
+
+* Rust
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## License
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.
