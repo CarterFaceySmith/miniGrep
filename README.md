@@ -32,3 +32,7 @@ An attempt to create a minimal, lightweight grep command line tool for use in te
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
+</br>
+</br>
+
+Godspeed.
